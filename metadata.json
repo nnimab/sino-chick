@@ -1,0 +1,6 @@
+{
+  "name": "尖叫雞 Meme",
+  "description": "點擊長按連續圖片可以看到會動的尖叫雞並發出聲音。請由介面上傳圖片即可遊玩！",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
